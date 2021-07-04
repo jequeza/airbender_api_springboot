@@ -1,0 +1,6 @@
+com/spring/practice/airbenderapi/AirbenderApplicationTests.java
+ com.spring.practice.airbenderapi.AirbenderApplicationTests
+com/spring/practice/airbenderapi/members/MemberServiceTest.java
+ com.spring.practice.airbenderapi.members.MemberServiceTest
+com/spring/practice/airbenderapi/members/MemberControllerTest.java
+ com.spring.practice.airbenderapi.members.MemberControllerTest

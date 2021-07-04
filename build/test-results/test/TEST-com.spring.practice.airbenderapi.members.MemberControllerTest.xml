@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.spring.practice.airbenderapi.members.MemberControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-04T18:18:48" hostname="Jesuss-MBP-3.MG8702" time="0.597">
+  <properties/>
+  <testcase name="getMembers_returnsEmptyList_and204_whenNoMembersFound" classname="com.spring.practice.airbenderapi.members.MemberControllerTest" time="0.597"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
