@@ -18,8 +18,8 @@ public class MemberController {
     public MemberService memberService;
 
     @GetMapping("/search")
-    public ResponseEntity<List<Member>> getMembers(@PathVariable String category) {
-        List<Member> members = memberService.getMembers(category);
+    public ResponseEntity<List<Member>> getMembers(@PathVariable String affiliation) {
+        List<Member> members = memberService.getMembers(affiliation);
         HttpStatus status = HttpStatus.OK;
         if (members.isEmpty()) {
             status = HttpStatus.NO_CONTENT;

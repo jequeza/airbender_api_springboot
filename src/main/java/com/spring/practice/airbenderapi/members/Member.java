@@ -8,4 +8,5 @@ import lombok.Data;
 @Builder
 public class Member {
     private String name;
+    private String affiliation;
 }

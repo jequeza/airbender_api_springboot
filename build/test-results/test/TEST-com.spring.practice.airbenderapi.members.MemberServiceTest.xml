@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.spring.practice.airbenderapi.members.MemberServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-07-05T04:31:12" hostname="Jesuss-MBP-3.MG8702" time="0.161">
+  <properties/>
+  <testcase name="getMembers_looksForMembersInDB" classname="com.spring.practice.airbenderapi.members.MemberServiceTest" time="0.154"/>
+  <testcase name="getMembers_callsAPIservice_ifNoMembersFoundInDB" classname="com.spring.practice.airbenderapi.members.MemberServiceTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
